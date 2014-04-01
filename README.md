@@ -52,6 +52,6 @@ It's also a good idea to use this to set the tone you want the conversation to h
 
 ## Questions
 
-Hit me up on Twitter at [@allafarce](https://twitter.com/allafarce)
+You can find me on Twitter as [@fureigh](https://twitter.com/fureigh), but probably you should bug Dave instead: [@allafarce](https://twitter.com/allafarce)
 
-Copyright 2014 Dave Guarino, MIT License
+Copyright 2014 Dave Guarino, MIT License, tampered with by Fureigh.
